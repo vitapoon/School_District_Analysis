@@ -13,15 +13,15 @@ The only change is within Thomas High Schools statistics as both math and readin
 Thomas High School's scores fell heavily dropping them from 4th to 7th highest scores in the district
  
 4, How does replacing the ninth-grade scores affect the following:
-> Math and reading scores by grade
+ Math and reading scores by grade
 
-> Scores by school spending
+Scores by school spending
 The $630 to $644 range saw a drop from 63% to 56% overall passing percentage
 
-> Scores by school size
+Scores by school size
 The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percentage
 
-> Scores by school type
+Scores by school type
 The charter type schools saw a drop from 90% to 87% overall passing percentage
 
 ## Summary
@@ -31,4 +31,4 @@ Without Thomas High School, the overall 9th graders' scores fell.
 
 Without the 9th graders' scores, the district summary changes much less than the Thomas High School.
 
-
+Without the 9th graders' scores, the medium school size (1000 to 2000) drop.
